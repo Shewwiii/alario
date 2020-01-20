@@ -2,8 +2,8 @@
 title: Alario
 description: >
   The financially savvy friend you always wish you had
-baseurl: "/alario"
-url: "http://shewwiii.github.io"
+baseurl: ""
+url: 'http://localhost:4000'
 twitter_username: alario_co
 # Build Settings
 sass:
